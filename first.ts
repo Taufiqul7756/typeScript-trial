@@ -34,16 +34,16 @@
 // console.log("Friends largest Name:", megaName);
 
 //object
-const friend: { name: string; age: number } = {
-  name: "samuel David",
-  age: 61,
-};
-friend.age = 57;
+// const friend: { name: string; age: number } = {
+//   name: "samuel David",
+//   age: 61,
+// };
+// friend.age = 57;
 
-let player: {
-  club: string;
-  salary: number;
-} = {
-  club: "Real Madrid",
-  salary: 450000,
-};
+// let player: {
+//   club: string;
+//   salary: number;
+// } = {
+//   club: "Real Madrid",
+//   salary: 450000,
+// };
